@@ -1,0 +1,67 @@
+[
+    {
+        "rowid": 0,
+        "eventid": 0,
+        "event": true,
+        "date": "2016-01-01T08:00:00.000Z",
+        "month": 1,
+        "day": 1,
+        "year": 2016
+    },
+    {
+        "rowid": 1,
+        "event": false,
+        "date": "2016-01-02T08:00:00.000Z",
+        "month": 1,
+        "day": 2,
+        "year": 2016
+    },
+    {
+        "rowid": 2,
+        "event": false,
+        "date": "2016-01-03T08:00:00.000Z",
+        "month": 1,
+        "day": 3,
+        "year": 2016
+    },
+    {
+        "rowid": 3,
+        "event": false,
+        "date": "2016-01-04T08:00:00.000Z",
+        "month": 1,
+        "day": 4,
+        "year": 2016
+    },
+    {
+        "rowid": 4,
+        "event": false,
+        "date": "2016-01-05T08:00:00.000Z",
+        "month": 1,
+        "day": 5,
+        "year": 2016
+    },
+    {
+        "rowid": 5,
+        "event": false,
+        "date": "2016-01-06T08:00:00.000Z",
+        "month": 1,
+        "day": 6,
+        "year": 2016
+    },
+    {
+        "rowid": 6,
+        "event": false,
+        "date": "2016-01-07T08:00:00.000Z",
+        "month": 1,
+        "day": 7,
+        "year": 2016
+    },
+    {
+        "rowid": 7,
+        "event": false,
+        "date": "2016-01-08T08:00:00.000Z",
+        "month": 1,
+        "day": 8,
+        "year": 2016
+    }
+]

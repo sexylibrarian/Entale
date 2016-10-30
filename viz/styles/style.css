@@ -1,0 +1,100 @@
+h1, h2, h3 {
+	font-family: 'raleway', san-serif;
+}
+
+#storyline_top {
+	height: 200px;
+	border-bottom: 1px #aaa solid;
+}
+
+#storyline_viz {
+	width:100%;
+	height:auto;
+	position:relative;
+	overflow:hidden;
+}
+
+.event {
+	text-align: center;
+    width: 100%;
+    min-height: 200px;
+    position:relative;
+   	border-bottom: 1px #aaa solid;
+   	background: orange;
+   	cursor:pointer;
+}
+
+.event h1 {
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    text-transform: uppercase;
+    width:95%;
+}
+
+.row {
+	position:relative;
+	width:100%;
+	border-bottom: 1px #aaa solid;
+	overflow: hidden;
+}
+
+/*.row:nth-child(even){
+	background:#d8d8d8;
+}
+*/
+.row:nth-child(odd){
+	background:#fff;
+}
+
+.support, .oppose, .neither {
+	width:33%;
+}
+
+.date {
+	 text-align: center;
+    font-size: .8rem;
+    color: #666;
+	overflow: hidden;
+}
+
+.icon {
+	width: 40px;
+    height: 40px;
+    position: relative;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 20px 5px;
+    float: left;
+}
+
+.icon:hover {
+	box-shadow: 0px 0px 5px #aaa;
+}
+
+
+.perspectives {
+	display:flex;
+	overflow: hidden;
+
+}
+
+.oppose .icon {
+	background:red;
+}
+
+.neither .icon {
+	background:darkgray;
+}
+
+.support .icon {
+	background:green;
+}
+
