@@ -1,6 +1,37 @@
 [
     {
         "eventid": 0,
-        "name": "My name is headline, or something"
+        "name": "Occupation begins",
+        "date": "Jan 2, 2016",
+        "summary": "Ammon Bundy leads armed militia in occupation of the Malheur National Wildlife Refuge.",
+        "image": "assets/eventone.jpg"
+    },
+    {
+        "eventid": 1,
+        "name": "One dead, Ammon Bundy and others surrender",
+        "date": "Jan 26, 2016",
+        "summary": "LaVoy Finicum, spokesperson for the militia, was killed during a shootout with FBI agents. Bundy and others arrested while en route to community meeting.",
+        "image": "assets/eventtwo.jpg"
+    },
+    {
+        "eventid": 2,
+        "name": "Remaining militia members surrender to authorities",
+        "date": "Feb 16, 2016",
+        "summary": "After 41 days of occupation, the remaining holdouts surrender to authorities.",
+        "image": "assets/eventthree.jpg"
+    },
+    {
+        "eventid": 3,
+        "name": "Trial of Ammon Bundy and other militia begins",
+        "date": "Sept 13, 2016",
+        "summary": "Bundy and others plead not guilty on charges of conspiracy.",
+        "image": "assets/eventfour.jpg"
+    },
+    {
+        "eventid": 4,
+        "name": "Ammon Bundy and others found not guilty",
+        "date": "Oct 27, 2016",
+        "summary": "The verdict by a jury of peers shocks many, including the defendants themselves.",
+        "image": "assets/eventfive.jpg"
     }
 ]
